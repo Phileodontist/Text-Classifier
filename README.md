@@ -1,2 +1,3 @@
 # Text-Classifier
-COGS 109 Final Project
+**COGS 109 Modeling and Data Analysis (Final Project)**
+
