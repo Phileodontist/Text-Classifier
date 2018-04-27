@@ -1,6 +1,10 @@
 # Text-Classifier
 **COGS 109 Modeling and Data Analysis (Final Project)**
 
+## Objective
+* Data Processing & Modeling
+* Natural Language Processing
+
 ## Introduction:
 With natural language processing (NLP) as our motivation, we came to decide on a topic that will be using text-based data for our analysis. As our first NLP project, we decided to go with a text classifier to ease our way into the domain of NLP. This in part lead us to use the well known 20newsgroup dataset, imported from sk-learn itself.
 
