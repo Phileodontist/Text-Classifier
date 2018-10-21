@@ -10,5 +10,7 @@ With natural language processing (NLP) as our motivation, we came to decide on a
 
 By implementing a text classifier we would hope to get some insight to how features of a body of text contributes to its own "meaning/purpose". This analysis will look into methods that one can use to classify documents within the context of news papers, to identify the entirety of a given text. We would hope that this project brings up the awareness of how aspects of a document affect their ability to be classified.
 
+**Final Project Write-up:** [Text Classifier: Performance Analysis](https://github.com/Phileodontist/Text-Classifier/blob/master/Final_project%20Paper.pdf)
+
 **Data Set:** [20newsgroups](http://qwone.com/~jason/20Newsgroups/)
 
